@@ -1,0 +1,14 @@
+{
+    "brand_name": "DigiCrome AI",
+    "tone": "professional, innovative, and friendly",
+    "colors": [
+        "#FF5733",
+        "#333333",
+        "#FFFFFF"
+    ],
+    "dont_say_words": [
+        "cheap",
+        "fake",
+        "guaranteed"
+    ]
+}
